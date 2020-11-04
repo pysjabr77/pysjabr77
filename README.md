@@ -9,5 +9,5 @@
 - 🔭 **Trabalho atual:** Atualmente trabalhando no Detran-GO pela Indra Company
 - 🔭 **Trabalho anteriores:** BB Tecnologia e Serviços, Simber Tecnologia, Marx Tecnologia, Nextsolution
 - 🔭 **Estágios:** Ambev e Anatel
-- 🌱 **Aprendizado:** Sempre aprendendo algo mais em: Javascript, Java, React, React Native, Node.js...
+- 🌱 **Aprendizado:** Sempre buscando mais conhecimento, atualmente com Javascript, React, React Native, Node.js
 
